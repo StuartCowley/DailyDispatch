@@ -1,0 +1,16 @@
+{
+    "name": "stuartcowley/gear4music",
+    "type": "project",
+    "authors": [
+        {
+            "name": "StuartCowley",
+            "email": "voidstalker@live.co.uk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
